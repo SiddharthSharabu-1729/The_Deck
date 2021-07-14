@@ -1,5 +1,5 @@
 # The_Deck
-# Ubuntu based Linux Distro for Beagles
+# Ubuntu based Linux Distro for Beagle Boards
 
 These file are the Post Installation scripts 
 
