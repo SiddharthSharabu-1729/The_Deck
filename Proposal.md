@@ -16,7 +16,7 @@ Country : India
 Primary Launguages : Telugu, English    
 Typical Work Hours : 9AM - 7PM IST
 
-## About My Project
+## About Project
 
 Project Name : The Deck Penetration Testing and Forensics Platform      
 
@@ -24,13 +24,12 @@ Project Name : The Deck Penetration Testing and Forensics Platform
 
 ## Testing the Available Tools in The Deck Linux
 
-The Deck is a full featured penetration testing and forensics system based on the [BeagleBoard-xM](https://beagleboard.org/beagleboard-xm).
-It will also run on the [BeagleBone BlackWireless](https://beagleboard.org/black-wireless). The Deck is an Ubuntu-based Linux distribution. 
-It contains everyone you would ever need and more in a small package. Because the system is low power it can be run for days or weeks from battery power. 
-It should be possible to run The Deck indefinitely from solar power. Having a full set of tools that run on the BeagleBoard-xM and also the BeagleBone BlackWireless allows a lot of flexibility.
-The Deck is equally suited as a portable penetration testing platform and as a drop box.
+The Deck is a full-featured penetration testing and forensics system based on the [BeagleBoard-XM](https://beagleboard.org/beagleboard-xm). It will also run on the [BeagleBone BlackWireless](https://beagleboard.org/black-wireless).The Deck is an Ubuntu-based Linux distribution. It is suitable for everyone who is working on this platform because it consumes very little power and also runs on solar energy .This  Linux distribution has a full set of tools that run on the BeagleBoard-XM and the BeagleBone BlackWireless and allows flexibility. IT also supports a portable penetration testing platform like dropbox.
 
-`    `Firstly I need to test all the tools and application that are present in the current version of the Deck Linux.So that I will get an idea about the tools in the Deck Linux.`       `
+The Deck Linux is devoloped in 2015 by [Dr.Philip Polstra](https://github.com/ppolstra).He is a professor of Digital Forensics at Bloomsburg University. He is also the author of a number of books including "Hacking and Penetration Testing with Low Power Devices". He has made repeat appearances at DEFCON, BlackHat, B-sides, 44CON, GrrCON, and spoken at many top conferences all around the world, usually on hardware hacking or forensics. But at that time of devoloping 
+
+
+In the first step I will install the current version of the Deck Linux in the BeagleBone Black Wireless, so that after installing I will come to the point of what are the tools in the Deck Linux and the tools to be added to the latest version.
 
 
 ## Making it comaptible for BeagleBone AI
