@@ -80,3 +80,40 @@ Aditional Hardware :
 4. [Micro HDMI to HDMI Cable](https://www.amazon.in/AmazonBasics-High-Speed-Micro-HDMI-Micro-USB-Cable/dp/B014I8TVLI)
 5. [Wireless KeyBoard](https://www.reliancedigital.in/logitech-k400r-wireless-touch-keyboard/p/490929986)
 
+
+## Time Line
+
+---------------- | -------------------------
+
+
+| June 5 | Dicussing About the Project and resources available |
+| June 6 | Gathering the required details and the preparing to start the project |
+| June 17 | Finalizing the required hardware and all the resources required to complete the project |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
