@@ -83,9 +83,8 @@ Aditional Hardware :
 
 ## Time Line
 
----------------- | -------------------------
-
-
+| Date | MileStone
+-------| ---------
 | June 5 | Dicussing About the Project and resources available |
 | June 6 | Gathering the required details and the preparing to start the project |
 | June 17 | Finalizing the required hardware and all the resources required to complete the project |
