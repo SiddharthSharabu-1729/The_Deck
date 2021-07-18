@@ -85,11 +85,14 @@ Aditional Hardware :
 
 | Date | MileStone
 -------| ---------
-| June 5 | Dicussing About the Project and resources available |
-| June 6 | Gathering the required details and the preparing to start the project |
-| June 17 | Finalizing the required hardware and all the resources required to complete the project |
-
-
+| July 5 | Dicussing About the Project and resources available |
+| July 6 | Gathering the required details and the preparing to start the project |
+| July 17 | Finalizing the required hardware and all the resources required to complete the project |
+| July 18 | ordering the required hardware |
+| August 5 | All the boards and additional hardware will be available to me at this period of time and I should have to set up my BeagleBone Black wireless board i.e flashing up the Deck Linux image into the BeagleBone Black Wireless |
+| August 7 | Testing the current version of The Deck Linux |
+| August 9 | * Listing all the required tools to be updated 
+             * Removing the outdated tools 
 
 
 
