@@ -100,9 +100,9 @@ Aditional Hardware :
 | September 24 | End of the Project |
 
 
+## Experience and Approach
 
-
-
+I had a good knowledge on basic C, Python and Linux. I had done some certifications on Ethical Hacking and I had a good experience on Raspberry Pi. By using Raspberry pi I made an OpenCV based Motion detection and Object Detection project and installed the latest Kali Linux into the Raspberry Pi as the portable hacking device.
 
 
 
