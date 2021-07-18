@@ -83,22 +83,21 @@ Aditional Hardware :
 
 ## Time Line
 
-| Date | MileStone
--------| ---------
+|Date | MileStone
+---------------------| -------------------------------
 | July 5 | Dicussing About the Project and resources available |
 | July 6 | Gathering the required details and the preparing to start the project |
 | July 17 | Finalizing the required hardware and all the resources required to complete the project |
 | July 18 | ordering the required hardware |
 | August 5 | All the boards and additional hardware will be available to me at this period of time and I should have to set up my BeagleBone Black wireless board i.e flashing up the Deck Linux image into the BeagleBone Black Wireless |
 | August 7 | Testing the current version of The Deck Linux |
-| August 9 | * Listing all the required tools to be updated 
-             * Removing the outdated tools 
-
-
-
-
-
-
+| August 9 | Listing all the required tools to be updated and the tools to remove |
+| August 10 | Discussing with the Mentor on the latest build of the Kernel |
+| August 20 | Starting the latest build of The Deck Linux, by adding the on-board wifi, bluetooth and making the Deck Linux Compatible with the BeagleBone AI |
+| September 3 | Testing the Beagle Bone AI |
+| September 5 | Installing the latest build of The Deck Linux in BeagleBone AI |
+| September 6 | Testing the Deck Linux and the tools in the BeagleBone AI |
+| September 24 | End of the Project |
 
 
 
