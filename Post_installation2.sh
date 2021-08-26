@@ -45,7 +45,7 @@ searchsploit -h
 searchsploit -u
 
 
-### Installing SET
+### Installing Social Engineering Toolkit
 sudo gitclone https://github.com/trustedsec/social-engineer-toolkit.git
 cd setoolkit
 pip3 install -r requirements.txt
