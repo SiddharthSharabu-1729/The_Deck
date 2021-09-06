@@ -47,8 +47,8 @@ echo "___________________________________________________"
 echo " "
 echo "------------Installing OhMyZsh---------------------"
 echo "____________________________________________________"
-sudo apt install zsh zsh-autosuggestions vim-syntastic zsh-theme-powerlevel9k zsh-synatx-highlighting
-sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+#sudo apt install zsh zsh-autosuggestions vim-syntastic zsh-theme-powerlevel9k zsh-synatx-highlighting
+#sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 ##Installing Tmux
 echo "_____________________________________________________________"
@@ -56,10 +56,10 @@ echo " "
 echo "----------Installing & Configuring Tmux-----------------------"
 echo "______________________________________________________________"
 
-sudo apt install tmux tmux-plugin-manager tmux-themepack-jimeh
-git clone https://github.com/gpakosz/.tmux.git
-ln -s -f .tmux/.tmux.conf
-cp .tmux/.tmux.conf.local .
+#sudo apt install tmux tmux-plugin-manager tmux-themepack-jimeh/
+#git clone https://github.com/gpakosz/.tmux.git
+#ln -s -f .tmux/.tmux.conf
+#cp .tmux/.tmux.conf.local .
 
 
 ###Editors
@@ -74,8 +74,8 @@ echo " "
 echo "----------Installing Vim Editor------------------"
 echo "_________________________________________________"
 
-sudo apt-cache search vim | grep editor
-sudo apt install vim
+#sudo apt-cache search vim | grep editor
+#sudo apt install vim
 
 #Atom
 #Uncomment below lines to install Atom 
